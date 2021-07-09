@@ -1,1 +1,1 @@
-print ("dad")
+print
