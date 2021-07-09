@@ -1,1 +1,2 @@
-print
+A = input("TJ")
+print (A)
