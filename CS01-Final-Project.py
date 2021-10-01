@@ -43,7 +43,7 @@ Button(TJ,text="*",font=10,command=lambda:press("*")).grid(row=3,column=3)
 Button(TJ,text="1",font=10,command=lambda:press("1")).grid(row=4,column=0)
 Button(TJ,text="2",font=10,command=lambda:press("2")).grid(row=4,column=1)
 Button(TJ,text="3",font=10,command=lambda:press("3")).grid(row=4,column=2)
-Button(TJ,text="-",font=15,command=lambda:press("-")).grid(row=4,column=3)
+Button(TJ,text="-",font=10,command=lambda:press("-")).grid(row=4,column=3)
 
 Button(TJ,text="0",font=10,command=lambda:press("0")).grid(row=5,column=0)
 Button(TJ,text=".",font=10,command=lambda:press(".")).grid(row=5,column=1,columnspan=2,sticky="news")
